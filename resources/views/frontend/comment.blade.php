@@ -78,7 +78,7 @@
           </div>
         @endif
         <h3>Tambah Komentar</h3>
-          <p>Tambahkan komentar anda disini</p>
+          <p>Tambahkan komentar anda pada kolom di bawah ini</p>
         </div>
         <div class="row">
           <form action="{{url('komentar')}}" method="POST">
