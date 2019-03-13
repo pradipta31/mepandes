@@ -11,8 +11,8 @@ use App\Http\Controllers\Controller;
 class HomeController extends Controller
 {
     public function index(){
-      $comments = Comment::where('status','=','approved')->paginate(4);
-      return view('frontend.layouts.app',compact('comments'));
+      $comments = Comment::where('status','=','approved')->get();
+      return view('frontend.layouts.app', compact('comments'));
     }
 
     public function postComment(Request $r){

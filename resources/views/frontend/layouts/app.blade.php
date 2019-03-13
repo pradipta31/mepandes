@@ -33,30 +33,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<div class="slider-info">
 								<h3>Welcome</h3>
 								<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
-									<!-- <div class="button">
-										<a href="services.html" class="button1 hvr-rectangle-in">get started</a>
-										<a href="#" class="button2 hvr-rectangle-in">read more</a>
-									</div> -->
 
 							</div>
 						</li>
 					</ul>
 				</div>
 			</section>
-		  <script defer src="{{asset('frontend/js/jquery.flexslider.js')}}"></script>
-			  <script type="text/javascript">
-					$(function(){
-					  SyntaxHighlighter.all();
-					});
-					$(window).load(function(){
-					  $('.flexslider').flexslider({
-						animation: "slide",
-						start: function(slider){
-						  $('body').removeClass('loading');
-						}
-					  });
-					});
-			  </script>
 		</div>
 	</div>
 	<!--header-->
@@ -106,7 +88,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<!--hot-offer-->
 					@include('frontend.comment')
 					<!--news-->
-					@include('frontend.form-comment')
+					<!-- @include('frontend.form-comment') -->
           <!-- @include('frontend.form-comment') -->
 							<!--news-->
 					<!--indicate-->

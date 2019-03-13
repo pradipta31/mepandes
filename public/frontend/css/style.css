@@ -123,7 +123,8 @@ span.menu {
   display: none;
 }
 .slider {
-  margin-top:15em;
+  margin-top:1em;
+  margin-bottom: 5em;
   text-align: center;
 }
 .slider-info h3 {
@@ -859,7 +860,7 @@ h2.tittle {
 }
 .form_details input[type="text"], .form_details textarea {
 	padding: 11px;
-	width: 51%;
+	width: 61%;
 	font-size: 1em;
 	margin: 10px 0px;
 	border:1px solid #a50812;
@@ -877,7 +878,7 @@ h2.tittle {
 .form_details textarea {
 	height:100px;
 	resize:none;
-	width:51%;
+	width:61%;
 }
 .form_details input[type="submit"] {
 	margin-top:1em;
@@ -897,7 +898,7 @@ h2.tittle {
 	text-transform:uppercase;
 	outline: none;
 	cursor: pointer;
-	width:20%;
+	width:25%;
 	background:#a50812;
 	border-radius: 0.3em;
 	-webkit-border-radius: 0.3em;

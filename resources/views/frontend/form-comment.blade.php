@@ -30,7 +30,7 @@
             </div>
         </div>
         <div class="form_details sub-button">
-           <input type="submit" value="Kirim Komentar">
+           <input type="submit" value="Kirim Komentar" aria-hidden="true">
         </div>
       </form>
     </div>
