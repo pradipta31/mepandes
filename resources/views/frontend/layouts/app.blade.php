@@ -18,6 +18,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <link rel="stylesheet" href="{{asset('frontend/css/flexslider.css')}}" type="text/css" media="screen" />
 <script src="{{asset('frontend/js/jquery-1.11.1.min.js')}}"></script>
 <script src="{{asset('frontend/js/bootstrap.js')}}"></script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
 </head>
 <body>
 <!--header-->
@@ -26,7 +27,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="header-top">
 				@include('frontend.layouts.navigation')
 			</div>
-			<section class="slider">
+			<!-- <section class="slider">
 				<div class="flexslider">
 					<ul class="slides">
 						<li>
@@ -38,7 +39,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</li>
 					</ul>
 				</div>
-			</section>
+			</section> -->
 		</div>
 	</div>
 	<!--header-->
@@ -48,37 +49,47 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="container">
 						<div class="about-head">
 						<h2>Gallery</h2>
-							<p>Autem vel eum iriure dolor in hendrerit in volestie consequat vel illum</p>
 					</div>
 					<div class="about-grids">
-						<div class="col-md-3 about-grid test1">
-						<img src="{{asset('frontend/images/p1.jpg')}}" class="img-responsive" alt="/">
-							<div class="textbox">
-								<h4>my wedding</h4>
-								<p>Arenean nonummy hendrerit mau phaselntes nascetur ridic ulusm dui fusce feu.</p>
-							</div>
+						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
+							<img src="{{asset('frontend/images/12/resize/img1.jpg')}}" class="img-responsive" alt="/">
 						</div>
-						<div class="col-md-3 about-grid test1">
-						<img src="{{asset('frontend/images/p2.jpg')}}" class="img-responsive" alt="/">
-						<div class="textbox">
-								<h4>my wedding</h4>
-								<p>Arenean nonummy hendrerit mau phaselntes nascetur ridic ulusm dui fusce feu.</p>
-							</div>
+						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
+							<img src="{{asset('frontend/images/12/resize/img2.jpg')}}" class="img-responsive" alt="/">
 						</div>
-						<div class="col-md-3 about-grid test1">
-						<img src="{{asset('frontend/images/p3.jpg')}}" class="img-responsive" alt="/">
-						<div class="textbox">
-								<h4>my wedding</h4>
-								<p>Arenean nonummy hendrerit mau phaselntes nascetur ridic ulusm dui fusce feu.</p>
-							</div>
+						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
+							<img src="{{asset('frontend/images/12/resize/img3.jpg')}}" class="img-responsive" alt="/">
 						</div>
-						<div class="col-md-3 about-grid test1">
-						<img src="{{asset('frontend/images/p4.jpg')}}" class="img-responsive" alt="/">
-						<div class="textbox">
-								<h4>my wedding</h4>
-								<p>Arenean nonummy hendrerit mau phaselntes nascetur ridic ulusm dui fusce feu.</p>
-							</div>
+						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
+							<img src="{{asset('frontend/images/12/resize/img4.jpg')}}" class="img-responsive" alt="/">
 						</div>
+
+						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
+							<img src="{{asset('frontend/images/12/resize/img5.jpg')}}" class="img-responsive" alt="/">
+						</div>
+						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
+							<img src="{{asset('frontend/images/12/resize/img6.jpg')}}" class="img-responsive" alt="/">
+						</div>
+						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
+							<img src="{{asset('frontend/images/12/resize/img7.jpg')}}" class="img-responsive" alt="/">
+						</div>
+						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
+							<img src="{{asset('frontend/images/12/resize/img8.jpg')}}" class="img-responsive" alt="/">
+						</div>
+
+						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
+							<img src="{{asset('frontend/images/12/resize/img9.jpg')}}" class="img-responsive" alt="/">
+						</div>
+						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
+							<img src="{{asset('frontend/images/12/resize/img10.jpg')}}" class="img-responsive" alt="/">
+						</div>
+						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
+							<img src="{{asset('frontend/images/12/resize/img11.jpg')}}" class="img-responsive" alt="/">
+						</div>
+						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
+							<img src="{{asset('frontend/images/12/resize/img12.jpg')}}" class="img-responsive" alt="/">
+						</div>
+
 						<div class="clearfix"></div>
 					</div>
 				</div>
@@ -87,32 +98,25 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<!--hot-offer-->
 			<!--hot-offer-->
 					@include('frontend.comment')
-					<!--news-->
-					<!-- @include('frontend.form-comment') -->
-          <!-- @include('frontend.form-comment') -->
-							<!--news-->
-					<!--indicate-->
-				<!-- <div class="indicate">
-					<div class="container">
-						<div class="indicate-grids">
-							<div class="col-md-3 indicate-grid">
-								<p><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>Newyork 9870 St Vincent</p>
-							</div>
-							<div class="col-md-3 indicate-grid">
-								<p><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>Telephone :  +1 800 603 6035</p>
-							</div>
-							<div class="col-md-3 indicate-grid">
-								<p><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>Email : <a href="mailto:example@mail.com"> example@mail.com</a></p>
-							</div>
-							<div class="col-md-3 indicate-grid">
-								<p><span class="glyphicon glyphicon-send" aria-hidden="true"></span>FAX :  +1 555 999 444</p>
-							</div>
-							<div class="clearfix"></div>
+					<div class="wedding-news">
+						<div class="container">
+							<h3>Waktu dan Tempat</h3>
+								<div class="wedding-grid">
+									<div class="col-md-12 weeding-new">
+											<div class="wedding-inner">
+												<h2 style="color: #a50812; font-family: 'Comic Sans MS', cursive, sans-serif">Minggu, 24 Maret 2019</h2>
+												<br>
+												<h4 style="color: #a50812; font-family: 'Comic Sans MS', cursive, sans-serif">16.00 Wita</h4>
+												<br>
+												<h4 style="color: #a50812; font-family: 'Comic Sans MS', cursive, sans-serif">Jl. Teges Gede II No. 8, Br. Mumbul, Kel. Benoa, Kec. Kuta Selatan, Kab. Badung</h4>
+												<br>
+												<a href="https://goo.gl/maps/16buCKHEbAo" target="_blank" class="btn btn-primary btn-info"><i class="fa fa-directions"></i> Get Direction</a>
+											</div>
+										</div>
+									<div class="clearfix"></div>
+								</div>
 						</div>
 					</div>
-				</div> -->
-			<!--indicate-->
-
 			</div>
 
 			<!--footer-->
