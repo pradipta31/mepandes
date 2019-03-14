@@ -23,7 +23,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <body>
 <!--header-->
 	<div class="header">
-		<div class="container">
+		<div class="">
 			<div class="header-top">
 				@include('frontend.layouts.navigation')
 			</div>
@@ -42,6 +42,26 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</section> -->
 		</div>
 	</div>
+	<div class="wedding-news">
+		<div class="container">
+			<h3>Waktu dan Tempat</h3>
+				<div class="wedding-grid">
+					<div class="col-md-12 weeding-new">
+							<div class="wedding-inner text-center">
+								<h4 style="color: #a50812; font-family: 'Comic Sans MS', cursive, sans-serif">Minggu, 24 Maret 2019</h4>
+								<br>
+								<h4 style="color: #a50812; font-family: 'Comic Sans MS', cursive, sans-serif">16.00 Wita</h4>
+								<br>
+								<h4 style="color: #a50812; font-family: 'Comic Sans MS', cursive, sans-serif">Jl. Teges Gede II No. 8, Br. Mumbul, Kel. Benoa, Kec. Kuta Selatan, Kab. Badung</h4>
+								<br>
+								<a href="https://bit.ly/2Tzgjsh" target="_blank" class="btn btn-primary btn-info"><i class="fa fa-directions"></i> Get Direction</a>
+							</div>
+						</div>
+					<div class="clearfix"></div>
+				</div>
+		</div>
+	</div>
+	<hr>
 	<!--header-->
 	<div class="content">
 				<!--about-->
@@ -98,25 +118,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<!--hot-offer-->
 			<!--hot-offer-->
 					@include('frontend.comment')
-					<div class="wedding-news">
-						<div class="container">
-							<h3>Waktu dan Tempat</h3>
-								<div class="wedding-grid">
-									<div class="col-md-12 weeding-new">
-											<div class="wedding-inner">
-												<h2 style="color: #a50812; font-family: 'Comic Sans MS', cursive, sans-serif">Minggu, 24 Maret 2019</h2>
-												<br>
-												<h4 style="color: #a50812; font-family: 'Comic Sans MS', cursive, sans-serif">16.00 Wita</h4>
-												<br>
-												<h4 style="color: #a50812; font-family: 'Comic Sans MS', cursive, sans-serif">Jl. Teges Gede II No. 8, Br. Mumbul, Kel. Benoa, Kec. Kuta Selatan, Kab. Badung</h4>
-												<br>
-												<a href="https://bit.ly/2Tzgjsh" target="_blank" class="btn btn-primary btn-info"><i class="fa fa-directions"></i> Get Direction</a>
-											</div>
-										</div>
-									<div class="clearfix"></div>
-								</div>
-						</div>
-					</div>
+
 			</div>
 
 			<!--footer-->

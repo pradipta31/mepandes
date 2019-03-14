@@ -62,7 +62,7 @@
     			  </script>
         </div>
     </div>
-    <div class="col-md-8">
+    <div class="col-md-8 text-center">
         <div class="about-head">
         @if (Session::has('success'))
           <div class="alert alert-success alert-dismissible">
