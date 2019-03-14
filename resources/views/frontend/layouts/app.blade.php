@@ -110,7 +110,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 												<br>
 												<h4 style="color: #a50812; font-family: 'Comic Sans MS', cursive, sans-serif">Jl. Teges Gede II No. 8, Br. Mumbul, Kel. Benoa, Kec. Kuta Selatan, Kab. Badung</h4>
 												<br>
-												<a href="https://goo.gl/maps/16buCKHEbAo" target="_blank" class="btn btn-primary btn-info"><i class="fa fa-directions"></i> Get Direction</a>
+												<a href="https://bit.ly/2Tzgjsh" target="_blank" class="btn btn-primary btn-info"><i class="fa fa-directions"></i> Get Direction</a>
 											</div>
 										</div>
 									<div class="clearfix"></div>
