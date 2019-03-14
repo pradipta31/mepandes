@@ -44,8 +44,29 @@ body{
 	margin:0 0;
 	font-family: 'OpenSans-Regular'
 }
+@media (max-width: 1440px){
+  .header {
+      background: url('background.jpg')no-repeat 0px 0px;
+      background-size: cover;
+      min-height: 1555px;
+  }
+}
+@media (max-width: 1366px){
+  .header {
+      background: url('background.jpg')no-repeat 0px 0px;
+      background-size: cover;
+      min-height: 1555px;
+  }
+}
+@media (max-width: 1280px){
+  .header {
+      background: url('background.jpg')no-repeat 0px 0px;
+      background-size: cover;
+      min-height: 1555px;
+  }
+}
 .header {
-    background: url(background.jpg)no-repeat 0px 0px;
+    /* background: url('background.jpg')no-repeat 0px 0px; */
     background-size: cover;
     min-height: 1555px;
 }
