@@ -66,6 +66,14 @@ body{
   }
 }
 
+@media (max-width: 991px){
+  .header {
+      background: url('background.jpg')no-repeat 0px 0px;
+      background-size: cover;
+      min-height: 1555px;
+  }
+}
+
 @media (max-width: 768px){
   .header {
       background: url('background.jpg')no-repeat 0px 0px;
