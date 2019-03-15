@@ -95,6 +95,7 @@ body{
       background: url('gambar-background.jpg')no-repeat 0px 0px;
       background-size: cover;
       min-height: 1555px;
+      left: -0.5%;
   }
 }
 
@@ -1512,7 +1513,7 @@ span.glyphicon.glyphicon-heart, span.glyphicon.glyphicon-camera, span.glyphicon.
     font-size: 0.8em;
 }
 .header {
-    background: url('gambar-background.JPG')no-repeat 0px 0px;
+    /* background: url('gambar-background.JPG')no-repeat 0px 0px; */
     background-size: cover;
 }
 .slider-info h3 {
