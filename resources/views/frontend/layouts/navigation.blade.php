@@ -9,7 +9,7 @@
         <span class="icon-bar"></span>
       </button> -->
       <div class="navbar-brand">
-        <h1><a href="{{url('/')}}">Undangan Mepandes</a></h1>
+        <h1 class="text-center"><a href="{{url('/')}}">UNDANGAN MEPANDES</a></h1>
       </div>
     </div>
 

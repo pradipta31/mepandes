@@ -54,10 +54,25 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<br>
 								<h4 style="color: #a50812; font-family: 'Comic Sans MS', cursive, sans-serif">Jl. Teges Gede II No. 8, Br. Mumbul, Kel. Benoa, Kec. Kuta Selatan, Kab. Badung</h4>
 								<br>
+								<h4 style="color: #a50812; font-family: 'Comic Sans MS', cursive, sans-serif">CP : 081353344586</h4>
+								<br>
 								<a href="https://bit.ly/2Tzgjsh" target="_blank" class="btn btn-primary btn-info"><i class="fa fa-directions"></i> Get Direction</a>
+
 							</div>
 						</div>
-					<div class="clearfix"></div>
+				</div>
+				<br>
+				<h3>Sane Mepandes</h3>
+				<div class="wedding-grid" style="margin-bottom: -70px">
+
+							<div class="wedding-inner text-center">
+								<h4 style="color: #a50812; font-family: 'Comic Sans MS', cursive, sans-serif">Bapak : Ir. I Nyoman Gelebet, MSi.</h4>
+								<br>
+								<h4 style="color: #a50812; font-family: 'Comic Sans MS', cursive, sans-serif">Ibu : Dr. Ni Nyoman Sukeni, SH., MSi.</h4>
+								<br>
+								<h4 style="color: #a50812; font-family: 'Comic Sans MS', cursive, sans-serif">Anak : Ni Wayan Nagining Sidianthi, SH., MKn.</h4>
+							</div>
+
 				</div>
 		</div>
 	</div>
@@ -74,12 +89,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
 							<img src="{{asset('frontend/images/12/resize/img1.jpg')}}" class="img-responsive" alt="/">
 						</div>
-						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
+						<!-- <div class="col-md-3 about-grid test1" style="margin-bottom:10px">
 							<img src="{{asset('frontend/images/12/resize/img2.jpg')}}" class="img-responsive" alt="/">
-						</div>
+						</div> -->
+						<!-- REVISI -->
 						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
-							<img src="{{asset('frontend/images/12/resize/img3.jpg')}}" class="img-responsive" alt="/">
+							<img src="{{asset('frontend/images/12/resize/img13.jpg')}}" class="img-responsive" alt="/">
 						</div>
+						<!-- END REVISI -->
 						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
 							<img src="{{asset('frontend/images/12/resize/img4.jpg')}}" class="img-responsive" alt="/">
 						</div>
@@ -103,9 +120,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
 							<img src="{{asset('frontend/images/12/resize/img10.jpg')}}" class="img-responsive" alt="/">
 						</div>
-						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
+						<!-- <div class="col-md-3 about-grid test1" style="margin-bottom:10px">
 							<img src="{{asset('frontend/images/12/resize/img11.jpg')}}" class="img-responsive" alt="/">
-						</div>
+						</div> -->
 						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
 							<img src="{{asset('frontend/images/12/resize/img12.jpg')}}" class="img-responsive" alt="/">
 						</div>

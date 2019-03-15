@@ -105,6 +105,17 @@ body{
       min-height: 1555px;
   }
 }
+
+@media (min-width: 1440px) {
+  .navbar-brand h1 a {
+    margin-left: 250px;
+    text-decoration: none;
+  	color:#fff;
+  	font-size: 1.2em;
+    font-family: 'Sail-Regular';
+    text-transform: capitalize;
+  }
+}
 .header {
     /* background: url('background.jpg')no-repeat 0px 0px; */
     background-size: cover;
@@ -116,7 +127,7 @@ body{
 }
 .navbar-brand {
     float: left;
-	margin-left: 0.8em;
+	  margin-left: 0.8em;
 }
 .navbar-nav {
     float: right;
@@ -1501,7 +1512,7 @@ span.glyphicon.glyphicon-heart, span.glyphicon.glyphicon-camera, span.glyphicon.
     font-size: 0.8em;
 }
 .header {
-    background: url(background.JPG)no-repeat 0px 0px;
+    background: url('gambar-background.JPG')no-repeat 0px 0px;
     background-size: cover;
 }
 .slider-info h3 {
