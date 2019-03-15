@@ -94,13 +94,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</div> -->
 						<!-- REVISI -->
 						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
-							<img src="{{asset('frontend/images/12/resize/img13.jpg')}}" class="img-responsive" alt="/">
+							<img src="{{asset('frontend/images/12/resize/img2.jpg')}}" class="img-responsive" alt="/">
 						</div>
 						<!-- END REVISI -->
 						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
-							<img src="{{asset('frontend/images/12/resize/img4.jpg')}}" class="img-responsive" alt="/">
+							<img src="{{asset('frontend/images/12/resize/img3.jpg')}}" class="img-responsive" alt="/">
 						</div>
 
+						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
+							<img src="{{asset('frontend/images/12/resize/img4.jpg')}}" class="img-responsive" alt="/">
+						</div>
 						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
 							<img src="{{asset('frontend/images/12/resize/img5.jpg')}}" class="img-responsive" alt="/">
 						</div>
@@ -110,21 +113,18 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
 							<img src="{{asset('frontend/images/12/resize/img7.jpg')}}" class="img-responsive" alt="/">
 						</div>
+
 						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
 							<img src="{{asset('frontend/images/12/resize/img8.jpg')}}" class="img-responsive" alt="/">
 						</div>
-
 						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
 							<img src="{{asset('frontend/images/12/resize/img9.jpg')}}" class="img-responsive" alt="/">
-						</div>
-						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
-							<img src="{{asset('frontend/images/12/resize/img10.jpg')}}" class="img-responsive" alt="/">
 						</div>
 						<!-- <div class="col-md-3 about-grid test1" style="margin-bottom:10px">
 							<img src="{{asset('frontend/images/12/resize/img11.jpg')}}" class="img-responsive" alt="/">
 						</div> -->
 						<div class="col-md-3 about-grid test1" style="margin-bottom:10px">
-							<img src="{{asset('frontend/images/12/resize/img12.jpg')}}" class="img-responsive" alt="/">
+							<img src="{{asset('frontend/images/12/resize/img10.jpg')}}" class="img-responsive" alt="/">
 						</div>
 
 						<div class="clearfix"></div>
