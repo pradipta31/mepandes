@@ -66,11 +66,23 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="wedding-grid" style="margin-bottom: -70px">
 
 							<div class="wedding-inner text-center">
-								<h4 style="color: #a50812; font-family: 'Comic Sans MS', cursive, sans-serif">Bapak : Ir. I Nyoman Gelebet, MSi.</h4>
+								<h4 style="color: #a50812; font-size: 25px;font-family: Day Roman">Ni Wayan Nagining Sidianthi, SH., MKn.</h4>
 								<br>
-								<h4 style="color: #a50812; font-family: 'Comic Sans MS', cursive, sans-serif">Ibu : Dr. Ni Nyoman Sukeni, SH., MSi.</h4>
+								<h4 style="color: #a50812; margin-top: 10px;font-family: Day Roman">Putri dari pasangan Ir. I Nyoman Gelebet, MSi dan Dr. Ni Nyoman Sukeni, SH., MSi</h4>
 								<br>
-								<h4 style="color: #a50812; font-family: 'Comic Sans MS', cursive, sans-serif">Anak : Ni Wayan Nagining Sidianthi, SH., MKn.</h4>
+								<h4 style="color: #a50812; font-size: 25px; margin-top: 20px;font-family: Day Roman">I Kadek Agus Dwipayana Putra</h4>
+								<br>
+								<h4 style="color: #a50812; margin-top: 10px;font-family: Day Roman">Putra dari pasangan I Wayan Gablor Aryana dan Ni Ketut Suartini Asih</h4>
+								<br>
+								<h4 style="color: #a50812; font-size: 25px; margin-top: 20px;font-family: Day Roman">Kadek Pujiani</h4>
+								<br>
+								<h4 style="color: #a50812; margin-top: 10px;font-family: Day Roman">Putri dari pasangan Wayan Punia dan (alm) Made Lisiani</h4>
+								<br>
+								<h4 style="color: #a50812; font-size: 25px; margin-top: 20px;font-family: Day Roman">Wayan Suartika</h4>
+								<br>
+								<h4 style="color: #a50812; margin-top: 10px;font-family: Day Roman">Putra dari pasangan Nyoman Rambi dan Made Kuntri</h4>
+								<br>
+
 							</div>
 
 				</div>

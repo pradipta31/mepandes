@@ -138,11 +138,16 @@ body{
     display: inline-block;
     margin: 0.8em 1em;
 }
+@font-face {
+  font-family: DeRoos Caps;
+  src: url('../fonts/deroos__.ttf');
+}
 .navbar-brand h1 a {
     text-decoration: none;
-	color:#fff;
+	color:maroon;
 	font-size: 1.2em;
-    font-family: 'Sail-Regular';
+  margin-top: 5px;
+    font-family: DeRoos Caps;
     text-transform: capitalize;
 }
 .navbar-default .navbar-nav > li > a {
@@ -184,7 +189,7 @@ body{
 }
 .navbar-default {
      border-color: #a50812!important;
-    background-color: #a50812;
+    /* background-color: #a50812; */
 }
 .top-menu ul li a {
     font-size: 1.1em;
